@@ -61,21 +61,6 @@
 
 ---
 
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-- 🔹 [Project 1](https://github.com/your-username/project1) – Short description
-- 🔹 [Project 2](https://github.com/your-username/project2) – Short description
-- 🔹 [Project 3](https://github.com/your-username/project3) – Short description
-
----
-
 ## 💡 Quote
 > "Code. Learn. Build. Repeat."
 
