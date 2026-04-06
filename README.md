@@ -55,13 +55,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav6600&theme=transparent) 
+![Github Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhav6600&show_icons=true&theme=transparent&hide=html,css)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vaibhav6600&show_icons=true&theme=transparent)
 
 ---
 
